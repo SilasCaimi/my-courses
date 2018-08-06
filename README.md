@@ -4,6 +4,7 @@
 
 ### Version Control
 
+Git e Github - School of Net
 
 ### Front-End
 
@@ -17,9 +18,6 @@
 ### Dev
 
 #### Android
-
-
-#### C#
 
 
 #### Java
