@@ -8,4 +8,5 @@
 
 ## Doing
 
+- [Como Usar o Git e o GitHub – Udacity](https://br.udacity.com/course/how-to-use-git-and-github--ud775) - August 2018.
 
