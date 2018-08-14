@@ -4,6 +4,7 @@ This is an aggregate of the courses I did and books i read to make my own "degre
 
 ## Doing
 
+- [Curso de SQL Completo - Softblue](http://www.softblue.com.br/site/curso/id/3/CURSO+DE+SQL+COMPLETO+BASICO+AO+AVANCADO+ON+LINE+BD03+GRATIS)
 - [Git & GitHub Bootcamp and popular IDE Integrations with Git - Udemy](https://www.udemy.com/git-bootcamp-with-github-learn-step-by-step/)
 
 ## Done
