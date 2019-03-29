@@ -1,4 +1,4 @@
-﻿# my-developer-degree
+﻿# My Developer Degree
 
 This is an aggregate of the courses I did and books i read to make my own "degree"
 
