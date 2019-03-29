@@ -4,18 +4,16 @@ This is an aggregate of the courses I did and books i read to make my own "degre
 
 ## Doing
 
-- [Curso de SQL Completo - Softblue](http://www.softblue.com.br/site/curso/id/3/CURSO+DE+SQL+COMPLETO+BASICO+AO+AVANCADO+ON+LINE+BD03+GRATIS)
-- [Git & GitHub Bootcamp and popular IDE Integrations with Git - Udemy](https://www.udemy.com/git-bootcamp-with-github-learn-step-by-step/)
+- [Front-End Web Developer Nanodegree - Udacity](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001)
 
 ## Done
 
-### Version Control
+| Subject          | Course Name                          | Institution          | Finish date |
+|------------------|--------------------------------------|----------------------|-------------|
+| Version Control | [Git e Github](https://www.schoolofnet.com/curso-git-e-github/)| School of Net | August 2018 |
+| Version Control | [Como Usar o Git e o GitHub](https://br.udacity.com/course/how-to-use-git-and-github--ud775)| Udacity | August 2018 |
+| Java | [Curso de Fundamentos de Java 11](http://www.softblue.com.br/site/curso/id/1/CURSO+DE+FUNDAMENTOS+DE+JAVA+11+BASICO+ON+LINE+JV01) | Softblue | October 2018 |
 
-- [Git e Github - School of Net](https://www.schoolofnet.com/curso-git-e-github/) - August 2018
-- [Como Usar o Git e o GitHub – Udacity](https://br.udacity.com/course/how-to-use-git-and-github--ud775) - August 2018
+### Books
 
-### Programming
-
-#### Java
-
-- [Curso de Fundamentos de Java 11 - Softblue](http://www.softblue.com.br/site/curso/id/1/CURSO+DE+FUNDAMENTOS+DE+JAVA+11+BASICO+ON+LINE+JV01) - October 2018
+- [O Programador Apaixonado](https://www.casadocodigo.com.br/products/livro-programador-apaixonado)
