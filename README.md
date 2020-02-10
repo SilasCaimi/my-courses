@@ -4,7 +4,7 @@ This is an aggregate of the courses I did and books i read to make my own "degre
 
 ## Doing
 
-- [Front-End Web Developer Nanodegree - Udacity](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001)
+- [Jakarta EE 8 Web Total](https://www.softblue.com.br/site/curso/id/60/CURSO+DE+JAKARTA+EE+8+WEB+TOTAL+AVANCADO+ON+LINE+JA60)
 
 ## Done
 
