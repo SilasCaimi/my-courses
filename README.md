@@ -20,5 +20,5 @@ This is an aggregate of the courses I did and books i read to make my own "degre
 
 ## Study portfolio
 
-- [Git]()
-- [Java]()
+- [Git](https://github.com/silascaimi/using-git)
+- [Java](https://github.com/silascaimi/learning-java)
