@@ -17,3 +17,8 @@ This is an aggregate of the courses I did and books i read to make my own "degre
 ### Books
 
 - [O Programador Apaixonado](https://www.casadocodigo.com.br/products/livro-programador-apaixonado)
+
+## Study portfolio
+
+- [Git]()
+- [Java]()
